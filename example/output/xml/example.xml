@@ -1,0 +1,27 @@
+<root>
+    <record id="1" name="威力巨大">
+        <items>
+            <int>10002</int>
+            <int>10012</int>
+            <int>10042</int>
+            <int>10062</int>
+            <int>10063</int>
+        </items>
+    </recore>
+    <record id="2" name="小胖子">
+        <items>
+            <int>20002</int>
+            <int>20012</int>
+            <int>20063</int>
+        </items>
+    </recore>
+    <record id="3" name="威风的猫">
+        <items>
+            <int>30002</int>
+            <int>30012</int>
+            <int>30042</int>
+            <int>30062</int>
+            <int>30063</int>
+        </items>
+    </recore>
+</root>

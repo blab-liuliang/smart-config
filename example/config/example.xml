@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<namespace name="echo">
+    <bean name="Hero" genxml="client">
+        <variable name="id" type="int" fromCol="ID" />
+        <variable name="name" type="string" fromCol="名称" />
+        <variable name="items" type="vector" value="int" fromCol="物品" />
+    </bean>
+</namespace>
