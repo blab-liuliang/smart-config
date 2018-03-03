@@ -7,14 +7,14 @@
             <int>10062</int>
             <int>10063</int>
         </items>
-    </recore>
+    </record>
     <record id="2" name="小胖子">
         <items>
             <int>20002</int>
             <int>20012</int>
             <int>20063</int>
         </items>
-    </recore>
+    </record>
     <record id="3" name="威风的猫">
         <items>
             <int>30002</int>
@@ -23,5 +23,5 @@
             <int>30062</int>
             <int>30063</int>
         </items>
-    </recore>
+    </record>
 </root>
